@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Eduspace</string>
+    <string name="botao_logar">Logar</string>
+    <string name="bt_consultarSala">Consultar Sala</string>
+    <string name="br_consultarCurso" />
+    <string name="texto_cadastre">Não tem conta, entre em contato com o Administrador.</string>
+    <string name="br_cadastrar">Cadastrar</string>
+    <string name="bt_cadastrarSala">Cadastrar Sala</string>
+    <string name="bt_cadastrarCurso">Cadastrar Curso</string>
+    <string name="bt_agendamento">Agendamento</string>
+    <string name="item_sair">sair</string>
+    <string name="item_novo">novo</string>
+    <string name="item_atualizar">atualizar</string>
+    <string name="item_deletar">deletar</string>
+    <string name="item_configuracoes">configurações</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

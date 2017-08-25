@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "643173167859",
+    "firebase_url": "https://eduspace-45641.firebaseio.com",
+    "project_id": "eduspace-45641",
+    "storage_bucket": "eduspace-45641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643173167859:android:05654cd314ad9f8f",
+        "android_client_info": {
+          "package_name": "br.com.eduspaceandroid.cursoandroid.eduspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643173167859-h8ratpeuc2qvj3k1gjt4b60u62dg02dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.eduspaceandroid.cursoandroid.eduspace",
+            "certificate_hash": "c5064352b2e5fb2e776abc5fd0fc9d137fbd9621"
+          }
+        },
+        {
+          "client_id": "643173167859-q4obb4uto1ran0ofjufi7df0im308o6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyQEIKpNpoc8t3YFdYgpZD_eXCyGwrGk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643173167859-q4obb4uto1ran0ofjufi7df0im308o6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

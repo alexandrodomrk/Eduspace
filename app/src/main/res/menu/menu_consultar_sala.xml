@@ -1,0 +1,16 @@
+<menu tools:context=".Activity.SlidingTabSalaActivity" xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+       <item android:id="@+id/item_sair"
+           android:title="sair"
+           android:orderInCategory="200"
+           app:showAsAction="never"/>
+
+       <item android:id="@+id/menu_pesquisa"
+        android:title="Pesquisar"
+        android:orderInCategory="300"
+        android:icon="@drawable/ic_pesquisar"
+        app:showAsAction="always"/>
+
+</menu>

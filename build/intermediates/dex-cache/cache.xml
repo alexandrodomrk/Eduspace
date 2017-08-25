@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.1_69ada7951876d8e66638ac756066aa5b9df3297b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.1_ce6999536f0f92f9071e8e5be390988a1475dc40\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.1_5c02b1477cf20d16a7a03583cc8048ad5763ca43\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.1_44265ff5a85698d3377bb4218e1a2e8f289031a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_4885f5a5e72ee6d06d2d0131d8428291b917bdf3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_e6508020d01885f856009035d0af32067af67324\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_8b30ba4f87af8d9633b7362d1b2df1bb5a497b8b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_0ec17b92097ddcef6615201aaba20e542cb2d5f0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_b2d98020bbcef080d1ed2b7878c77e8c6e5a46e1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="ecb0dd4b80a5b5748345ef4e7a55fda88ad25c3f">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1eb534173eae9e65c3b77a2b48822dbb31f7fde\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.1_11d2ec11ffe6bd0a5cdc370481e248966ad1d295\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.1_cb0e6f01264cbf1dc9ff9f599c81ca957c5e603d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="bedbd5bd35a5dcd4d1139865c894b5c601f7bcb2">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c71de6b95fca315a44facd70c663df16d2be3015\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_3a887d6499f177c52046fa1994745637e889c3a0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_1a884910f9f722d423772a9b48dde12bfba90e32\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_0f0467a7661bd2f035419eaa28e0404e0372b80e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4f3831924a4e26603f9d025005d1a5eb72a84b50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_605ceae509c176351a4bb0647296825096862f29\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.1_3cb3e9eb92c0434845867c9943f2a272cb0b83db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.1_65fbbb141574548719127822a885b7dfbaac08a8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_8b134cbaddab2a1a04e9bc6de287186180a785c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.1_967c3a888a37fbd811023a2e2bb3b88978739455\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_162deb8b511b624a34ec2e9e4e75353bf1d3db44\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_e51295853e9728f79c01b4b0c68a8d0a10db4719\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Eduspace\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.1_13c2afb0f6e5dae690f385a65447882b93b9b70c\classes.dex" />
+    </item>
+
+</items>
